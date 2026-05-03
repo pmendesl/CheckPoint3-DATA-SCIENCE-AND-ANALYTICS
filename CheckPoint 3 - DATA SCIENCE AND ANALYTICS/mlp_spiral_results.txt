@@ -1,0 +1,5 @@
+Configuração: {'hidden_layer_sizes': (10,), 'activation': 'relu', 'learning_rate_init': 0.01, 'normalize': False, 'max_iter': 1000}, Acurácia: 0.9250
+Configuração: {'hidden_layer_sizes': (10, 10), 'activation': 'relu', 'learning_rate_init': 0.01, 'normalize': False, 'max_iter': 1000}, Acurácia: 1.0000
+Configuração: {'hidden_layer_sizes': (20, 20), 'activation': 'tanh', 'learning_rate_init': 0.001, 'normalize': False, 'max_iter': 1000}, Acurácia: 0.9700
+Configuração: {'hidden_layer_sizes': (10,), 'activation': 'relu', 'learning_rate_init': 0.01, 'normalize': True, 'max_iter': 1000}, Acurácia: 0.9700
+Configuração: {'hidden_layer_sizes': (10, 10), 'activation': 'relu', 'learning_rate_init': 0.01, 'normalize': True, 'max_iter': 1000}, Acurácia: 0.9950
